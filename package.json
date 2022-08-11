@@ -1,0 +1,25 @@
+{
+  "name": "bocoran-slot-online-cq9-terbaik-gampang-menang",
+  "main": "slot-cq9-gacor",
+  "theme": "ui",
+  "version": "1.25.0",
+  "description": "LEXUSMPO || Bocoran Situs Slot Online CQ9 Terbaik Gampang Menang",
+  "keywords": [
+    "bocoran slot online pg soft",
+    "slot CQ9",
+    "Slot online CQ9",
+    "slot online gacor CQ9",
+    "slot online CQ9 gacor",
+    "Slot Online CQ9 Terpercaya",
+    "Slot online CQ9 terbaik",
+    "Slot online CQ9 terbaru"
+  ],
+  "activationCommands": {
+    "atom-workspace": "bocoran-slot-cq9:toggle"
+  },
+  "repository": "https://github.com/kecoakhero/slot-cq9-gamapang-jp.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
